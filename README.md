@@ -7,3 +7,7 @@
 ### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/ratan-34/ratan-34/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/ratan-34/ratan-34/blob/output/github-contribution-grid-snake.svg)
+
